@@ -1,0 +1,726 @@
+Passed Test #0 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-445.html and word cherry
+
+expected = 0.0963855421686747
+result = 0.0963855421686747
+
+
+Passed Test #1 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-445.html and word banana
+
+expected = 0.04819277108433735
+result = 0.04819277108433735
+
+
+Passed Test #2 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-445.html and word pear
+
+expected = 0.04819277108433735
+result = 0.04819277108433735
+
+
+Passed Test #3 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-445.html and word lime
+
+expected = 0.0963855421686747
+result = 0.0963855421686747
+
+
+Passed Test #4 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-445.html and word peach
+
+expected = 0.10843373493975904
+result = 0.10843373493975904
+
+
+Passed Test #5 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-445.html and word kiwi
+
+expected = 0.08433734939759036
+result = 0.08433734939759036
+
+
+Passed Test #6 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-445.html and word orange
+
+expected = 0.07228915662650602
+result = 0.07228915662650602
+
+
+Passed Test #7 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-445.html and word apple
+
+expected = 0.060240963855421686
+result = 0.060240963855421686
+
+
+Passed Test #8 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-445.html and word fig
+
+expected = 0.03614457831325301
+result = 0.03614457831325301
+
+
+Passed Test #9 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-445.html and word apricot
+
+expected = 0.13253012048192772
+result = 0.13253012048192772
+
+
+Passed Test #10 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-445.html and word tomato
+
+expected = 0
+result = 0.0
+
+
+Passed Test #11 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-7.html and word cherry
+
+expected = 0.0784313725490196
+result = 0.0784313725490196
+
+
+Passed Test #12 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-7.html and word banana
+
+expected = 0.0784313725490196
+result = 0.0784313725490196
+
+
+Passed Test #13 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-7.html and word pear
+
+expected = 0.0784313725490196
+result = 0.0784313725490196
+
+
+Passed Test #14 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-7.html and word lime
+
+expected = 0.0784313725490196
+result = 0.0784313725490196
+
+
+Passed Test #15 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-7.html and word peach
+
+expected = 0.0784313725490196
+result = 0.0784313725490196
+
+
+Passed Test #16 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-7.html and word kiwi
+
+expected = 0.0196078431372549
+result = 0.0196078431372549
+
+
+Passed Test #17 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-7.html and word orange
+
+expected = 0.13725490196078433
+result = 0.13725490196078433
+
+
+Passed Test #18 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-7.html and word apple
+
+expected = 0.0784313725490196
+result = 0.0784313725490196
+
+
+Passed Test #19 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-7.html and word fig
+
+expected = 0.058823529411764705
+result = 0.058823529411764705
+
+
+Passed Test #20 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-7.html and word apricot
+
+expected = 0.0784313725490196
+result = 0.0784313725490196
+
+
+Passed Test #21 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-7.html and word tomato
+
+expected = 0
+result = 0.0
+
+
+Passed Test #22 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-777.html and word cherry
+
+expected = 0.125
+result = 0.125
+
+
+Passed Test #23 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-777.html and word banana
+
+expected = 0
+result = 0.0
+
+
+Passed Test #24 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-777.html and word pear
+
+expected = 0
+result = 0.0
+
+
+Passed Test #25 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-777.html and word lime
+
+expected = 0.15625
+result = 0.15625
+
+
+Passed Test #26 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-777.html and word peach
+
+expected = 0.09375
+result = 0.09375
+
+
+Passed Test #27 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-777.html and word kiwi
+
+expected = 0.03125
+result = 0.03125
+
+
+Passed Test #28 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-777.html and word orange
+
+expected = 0.0625
+result = 0.0625
+
+
+Passed Test #29 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-777.html and word apple
+
+expected = 0.09375
+result = 0.09375
+
+
+Passed Test #30 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-777.html and word fig
+
+expected = 0.15625
+result = 0.15625
+
+
+Passed Test #31 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-777.html and word apricot
+
+expected = 0.0625
+result = 0.0625
+
+
+Passed Test #32 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-777.html and word tomato
+
+expected = 0
+result = 0.0
+
+
+Passed Test #33 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-664.html and word cherry
+
+expected = 0.06666666666666667
+result = 0.06666666666666667
+
+
+Passed Test #34 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-664.html and word banana
+
+expected = 0.10666666666666667
+result = 0.10666666666666667
+
+
+Passed Test #35 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-664.html and word pear
+
+expected = 0.12
+result = 0.12
+
+
+Passed Test #36 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-664.html and word lime
+
+expected = 0.06666666666666667
+result = 0.06666666666666667
+
+
+Passed Test #37 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-664.html and word peach
+
+expected = 0.08
+result = 0.08
+
+
+Passed Test #38 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-664.html and word kiwi
+
+expected = 0.06666666666666667
+result = 0.06666666666666667
+
+
+Passed Test #39 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-664.html and word orange
+
+expected = 0.09333333333333334
+result = 0.09333333333333334
+
+
+Passed Test #40 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-664.html and word apple
+
+expected = 0.08
+result = 0.08
+
+
+Passed Test #41 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-664.html and word fig
+
+expected = 0.04
+result = 0.04
+
+
+Passed Test #42 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-664.html and word apricot
+
+expected = 0.05333333333333334
+result = 0.05333333333333334
+
+
+Passed Test #43 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-664.html and word tomato
+
+expected = 0
+result = 0.0
+
+
+Passed Test #44 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-601.html and word cherry
+
+expected = 0.023529411764705882
+result = 0.023529411764705882
+
+
+Passed Test #45 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-601.html and word banana
+
+expected = 0.07058823529411765
+result = 0.07058823529411765
+
+
+Passed Test #46 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-601.html and word pear
+
+expected = 0.058823529411764705
+result = 0.058823529411764705
+
+
+Passed Test #47 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-601.html and word lime
+
+expected = 0.08235294117647059
+result = 0.08235294117647059
+
+
+Passed Test #48 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-601.html and word peach
+
+expected = 0.11764705882352941
+result = 0.11764705882352941
+
+
+Passed Test #49 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-601.html and word kiwi
+
+expected = 0.08235294117647059
+result = 0.08235294117647059
+
+
+Passed Test #50 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-601.html and word orange
+
+expected = 0.047058823529411764
+result = 0.047058823529411764
+
+
+Passed Test #51 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-601.html and word apple
+
+expected = 0.11764705882352941
+result = 0.11764705882352941
+
+
+Passed Test #52 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-601.html and word fig
+
+expected = 0.07058823529411765
+result = 0.07058823529411765
+
+
+Passed Test #53 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-601.html and word apricot
+
+expected = 0.10588235294117647
+result = 0.10588235294117647
+
+
+Passed Test #54 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-601.html and word tomato
+
+expected = 0
+result = 0.0
+
+
+Passed Test #55 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-354.html and word cherry
+
+expected = 0.060240963855421686
+result = 0.060240963855421686
+
+
+Passed Test #56 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-354.html and word banana
+
+expected = 0.04819277108433735
+result = 0.04819277108433735
+
+
+Passed Test #57 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-354.html and word pear
+
+expected = 0.024096385542168676
+result = 0.024096385542168676
+
+
+Passed Test #58 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-354.html and word lime
+
+expected = 0.10843373493975904
+result = 0.10843373493975904
+
+
+Passed Test #59 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-354.html and word peach
+
+expected = 0.12048192771084337
+result = 0.12048192771084337
+
+
+Passed Test #60 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-354.html and word kiwi
+
+expected = 0.060240963855421686
+result = 0.060240963855421686
+
+
+Passed Test #61 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-354.html and word orange
+
+expected = 0.14457831325301204
+result = 0.14457831325301204
+
+
+Passed Test #62 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-354.html and word apple
+
+expected = 0.08433734939759036
+result = 0.08433734939759036
+
+
+Passed Test #63 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-354.html and word fig
+
+expected = 0.03614457831325301
+result = 0.03614457831325301
+
+
+Passed Test #64 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-354.html and word apricot
+
+expected = 0.060240963855421686
+result = 0.060240963855421686
+
+
+Passed Test #65 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-354.html and word tomato
+
+expected = 0
+result = 0.0
+
+
+Passed Test #66 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-770.html and word cherry
+
+expected = 0.09090909090909091
+result = 0.09090909090909091
+
+
+Passed Test #67 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-770.html and word banana
+
+expected = 0.015151515151515152
+result = 0.015151515151515152
+
+
+Passed Test #68 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-770.html and word pear
+
+expected = 0.10606060606060606
+result = 0.10606060606060606
+
+
+Passed Test #69 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-770.html and word lime
+
+expected = 0.07575757575757576
+result = 0.07575757575757576
+
+
+Passed Test #70 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-770.html and word peach
+
+expected = 0.09090909090909091
+result = 0.09090909090909091
+
+
+Passed Test #71 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-770.html and word kiwi
+
+expected = 0.09090909090909091
+result = 0.09090909090909091
+
+
+Passed Test #72 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-770.html and word orange
+
+expected = 0.030303030303030304
+result = 0.030303030303030304
+
+
+Passed Test #73 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-770.html and word apple
+
+expected = 0.10606060606060606
+result = 0.10606060606060606
+
+
+Passed Test #74 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-770.html and word fig
+
+expected = 0.10606060606060606
+result = 0.10606060606060606
+
+
+Passed Test #75 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-770.html and word apricot
+
+expected = 0.045454545454545456
+result = 0.045454545454545456
+
+
+Passed Test #76 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-770.html and word tomato
+
+expected = 0
+result = 0.0
+
+
+Passed Test #77 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-128.html and word cherry
+
+expected = 0
+result = 0.0
+
+
+Passed Test #78 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-128.html and word banana
+
+expected = 0.14705882352941177
+result = 0.14705882352941177
+
+
+Passed Test #79 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-128.html and word pear
+
+expected = 0.20588235294117646
+result = 0.20588235294117646
+
+
+Passed Test #80 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-128.html and word lime
+
+expected = 0.14705882352941177
+result = 0.14705882352941177
+
+
+Passed Test #81 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-128.html and word peach
+
+expected = 0.08823529411764706
+result = 0.08823529411764706
+
+
+Passed Test #82 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-128.html and word kiwi
+
+expected = 0.029411764705882353
+result = 0.029411764705882353
+
+
+Passed Test #83 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-128.html and word orange
+
+expected = 0
+result = 0.0
+
+
+Passed Test #84 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-128.html and word apple
+
+expected = 0.029411764705882353
+result = 0.029411764705882353
+
+
+Passed Test #85 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-128.html and word fig
+
+expected = 0.08823529411764706
+result = 0.08823529411764706
+
+
+Passed Test #86 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-128.html and word apricot
+
+expected = 0.058823529411764705
+result = 0.058823529411764705
+
+
+Passed Test #87 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-128.html and word tomato
+
+expected = 0
+result = 0.0
+
+
+Passed Test #88 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-159.html and word cherry
+
+expected = 0
+result = 0.0
+
+
+Passed Test #89 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-159.html and word banana
+
+expected = 0.09523809523809523
+result = 0.09523809523809523
+
+
+Passed Test #90 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-159.html and word pear
+
+expected = 0.14285714285714285
+result = 0.14285714285714285
+
+
+Passed Test #91 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-159.html and word lime
+
+expected = 0
+result = 0.0
+
+
+Passed Test #92 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-159.html and word peach
+
+expected = 0.19047619047619047
+result = 0.19047619047619047
+
+
+Passed Test #93 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-159.html and word kiwi
+
+expected = 0.047619047619047616
+result = 0.047619047619047616
+
+
+Passed Test #94 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-159.html and word orange
+
+expected = 0.19047619047619047
+result = 0.19047619047619047
+
+
+Passed Test #95 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-159.html and word apple
+
+expected = 0.047619047619047616
+result = 0.047619047619047616
+
+
+Passed Test #96 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-159.html and word fig
+
+expected = 0.09523809523809523
+result = 0.09523809523809523
+
+
+Passed Test #97 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-159.html and word apricot
+
+expected = 0.14285714285714285
+result = 0.14285714285714285
+
+
+Passed Test #98 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-159.html and word tomato
+
+expected = 0
+result = 0.0
+
+
+Passed Test #99 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-562.html and word cherry
+
+expected = 0.08695652173913043
+result = 0.08695652173913043
+
+
+Passed Test #100 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-562.html and word banana
+
+expected = 0.021739130434782608
+result = 0.021739130434782608
+
+
+Passed Test #101 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-562.html and word pear
+
+expected = 0.10869565217391304
+result = 0.10869565217391304
+
+
+Passed Test #102 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-562.html and word lime
+
+expected = 0.06521739130434782
+result = 0.06521739130434782
+
+
+Passed Test #103 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-562.html and word peach
+
+expected = 0.043478260869565216
+result = 0.043478260869565216
+
+
+Passed Test #104 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-562.html and word kiwi
+
+expected = 0.10869565217391304
+result = 0.10869565217391304
+
+
+Passed Test #105 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-562.html and word orange
+
+expected = 0.06521739130434782
+result = 0.06521739130434782
+
+
+Passed Test #106 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-562.html and word apple
+
+expected = 0.06521739130434782
+result = 0.06521739130434782
+
+
+Passed Test #107 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-562.html and word fig
+
+expected = 0.043478260869565216
+result = 0.043478260869565216
+
+
+Passed Test #108 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-562.html and word apricot
+
+expected = 0.10869565217391304
+result = 0.10869565217391304
+
+
+Passed Test #109 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/fruits4/N-562.html and word tomato
+
+expected = 0
+result = 0.0
+
+
+Passed Test #110 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N.html and word cherry
+
+expected = 0
+result = 0
+
+
+Passed Test #111 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N.html and word banana
+
+expected = 0
+result = 0
+
+
+Passed Test #112 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N.html and word pear
+
+expected = 0
+result = 0
+
+
+Passed Test #113 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N.html and word lime
+
+expected = 0
+result = 0
+
+
+Passed Test #114 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N.html and word peach
+
+expected = 0
+result = 0
+
+
+Passed Test #115 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N.html and word kiwi
+
+expected = 0
+result = 0
+
+
+Passed Test #116 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N.html and word orange
+
+expected = 0
+result = 0
+
+
+Passed Test #117 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N.html and word apple
+
+expected = 0
+result = 0
+
+
+Passed Test #118 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N.html and word fig
+
+expected = 0
+result = 0
+
+
+Passed Test #119 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N.html and word apricot
+
+expected = 0
+result = 0
+
+
+Passed Test #120 checking TF for URL http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N.html and word tomato
+
+expected = 0
+result = 0
+
+

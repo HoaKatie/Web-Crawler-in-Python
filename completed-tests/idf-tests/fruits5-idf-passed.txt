@@ -1,0 +1,84 @@
+Passed Test #0 checking IDF for word fig
+
+expected = 0.16650266314016507
+result = 0.16650266314016507
+
+
+Passed Test #1 checking IDF for word apple
+
+expected = 0.15521264992094008
+result = 0.15521264992094008
+
+
+Passed Test #2 checking IDF for word cherry
+
+expected = 0.15682010974282581
+result = 0.15682010974282581
+
+
+Passed Test #3 checking IDF for word banana
+
+expected = 0.16326791954086414
+result = 0.16326791954086414
+
+
+Passed Test #4 checking IDF for word orange
+
+expected = 0.16650266314016507
+result = 0.16650266314016507
+
+
+Passed Test #5 checking IDF for word blueberry
+
+expected = 0.1729939903610231
+result = 0.1729939903610231
+
+
+Passed Test #6 checking IDF for word apricot
+
+expected = 0.1729939903610231
+result = 0.1729939903610231
+
+
+Passed Test #7 checking IDF for word lime
+
+expected = 0.16326791954086414
+result = 0.16326791954086414
+
+
+Passed Test #8 checking IDF for word kiwi
+
+expected = 0.1729939903610231
+result = 0.1729939903610231
+
+
+Passed Test #9 checking IDF for word pear
+
+expected = 0.16812275880832706
+result = 0.16812275880832706
+
+
+Passed Test #10 checking IDF for word peach
+
+expected = 0.1600404125104682
+result = 0.1600404125104682
+
+
+Passed Test #11 checking IDF for word coconut
+
+expected = 0.1600404125104682
+result = 0.1600404125104682
+
+
+Passed Test #12 checking IDF for word papaya
+
+expected = 0.16650266314016507
+result = 0.16650266314016507
+
+
+Passed Test #13 checking IDF for word tomato
+
+expected = 0
+result = 0
+
+

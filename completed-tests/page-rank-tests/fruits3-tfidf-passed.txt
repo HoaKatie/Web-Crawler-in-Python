@@ -1,0 +1,726 @@
+Passed Test #0 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-507.html and word lime
+
+expected = 0.018990673049157587
+result = 0.018990673049157587
+
+
+Passed Test #1 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-507.html and word blueberry
+
+expected = 0.012520769951850136
+result = 0.012520769951850136
+
+
+Passed Test #2 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-507.html and word apricot
+
+expected = 0.01802439458618298
+result = 0.01802439458618298
+
+
+Passed Test #3 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-507.html and word coconut
+
+expected = 0.013235405194706094
+result = 0.013235405194706094
+
+
+Passed Test #4 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-507.html and word kiwi
+
+expected = 0.00873604128373213
+result = 0.00873604128373213
+
+
+Passed Test #5 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-507.html and word banana
+
+expected = 0.014379914595849953
+result = 0.014379914595849953
+
+
+Passed Test #6 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-507.html and word peach
+
+expected = 0.017324837275400434
+result = 0.017324837275400434
+
+
+Passed Test #7 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-507.html and word cherry
+
+expected = 0.0145261422879701
+result = 0.0145261422879701
+
+
+Passed Test #8 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-507.html and word orange
+
+expected = 0.023975044380037235
+result = 0.023975044380037235
+
+
+Passed Test #9 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-507.html and word pear
+
+expected = 0.02490177862322634
+result = 0.02490177862322634
+
+
+Passed Test #10 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-507.html and word tomato
+
+expected = 0.0
+result = 0.0
+
+
+Passed Test #11 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-913.html and word lime
+
+expected = 0.01948109093671263
+result = 0.01948109093671263
+
+
+Passed Test #12 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-913.html and word blueberry
+
+expected = 0.006506490435312366
+result = 0.006506490435312366
+
+
+Passed Test #13 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-913.html and word apricot
+
+expected = 0.01848700920467347
+result = 0.01848700920467347
+
+
+Passed Test #14 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-913.html and word coconut
+
+expected = 0.013579334703077508
+result = 0.013579334703077508
+
+
+Passed Test #15 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-913.html and word kiwi
+
+expected = 0.023165658772586174
+result = 0.023165658772586174
+
+
+Passed Test #16 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-913.html and word banana
+
+expected = 0.020395136902343267
+result = 0.020395136902343267
+
+
+Passed Test #17 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-913.html and word peach
+
+expected = 0.011996958633936265
+result = 0.011996958633936265
+
+
+Passed Test #18 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-913.html and word cherry
+
+expected = 0.020602532695957007
+result = 0.020602532695957007
+
+
+Passed Test #19 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-913.html and word orange
+
+expected = 0.015653809937296027
+result = 0.015653809937296027
+
+
+Passed Test #20 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-913.html and word pear
+
+expected = 0.025533269907219203
+result = 0.025533269907219203
+
+
+Passed Test #21 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-913.html and word tomato
+
+expected = 0.0
+result = 0.0
+
+
+Passed Test #22 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-461.html and word lime
+
+expected = 0.02876958206099301
+result = 0.02876958206099301
+
+
+Passed Test #23 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-461.html and word blueberry
+
+expected = 0.01788000836440647
+result = 0.01788000836440647
+
+
+Passed Test #24 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-461.html and word apricot
+
+expected = 0.01172001055056407
+result = 0.011720010550564066
+
+
+Passed Test #25 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-461.html and word coconut
+
+expected = 0.012750987266474166
+result = 0.012750987266474164
+
+
+Passed Test #26 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-461.html and word kiwi
+
+expected = 0.021784595623572593
+result = 0.021784595623572593
+
+
+Passed Test #27 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-461.html and word banana
+
+expected = 0.01652999051072932
+result = 0.01652999051072932
+
+
+Passed Test #28 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-461.html and word peach
+
+expected = 0.011265137072073942
+result = 0.01126513707207394
+
+
+Passed Test #29 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-461.html and word cherry
+
+expected = 0.005701265208540306
+result = 0.005701265208540306
+
+
+Passed Test #30 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-461.html and word orange
+
+expected = 0.023117471758705398
+result = 0.023117471758705398
+
+
+Passed Test #31 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-461.html and word pear
+
+expected = 0.012291482707434161
+result = 0.01229148270743416
+
+
+Passed Test #32 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-461.html and word tomato
+
+expected = 0.0
+result = 0.0
+
+
+Passed Test #33 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-623.html and word lime
+
+expected = 0.006355016692070234
+result = 0.006355016692070234
+
+
+Passed Test #34 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-623.html and word blueberry
+
+expected = 0.01030283938137311
+result = 0.01030283938137311
+
+
+Passed Test #35 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-623.html and word apricot
+
+expected = 0.019620089449017584
+result = 0.019620089449017584
+
+
+Passed Test #36 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-623.html and word coconut
+
+expected = 0.016170728226645063
+result = 0.016170728226645063
+
+
+Passed Test #37 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-623.html and word kiwi
+
+expected = 0.027460815364372913
+result = 0.027460815364372913
+
+
+Passed Test #38 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-623.html and word banana
+
+expected = 0.0
+result = 0.0
+
+
+Passed Test #39 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-623.html and word peach
+
+expected = 0.040452786172259905
+result = 0.040452786172259905
+
+
+Passed Test #40 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-623.html and word cherry
+
+expected = 0.014286381612769284
+result = 0.014286381612769284
+
+
+Passed Test #41 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-623.html and word orange
+
+expected = 0.010107707110898992
+result = 0.010107707110898992
+
+
+Passed Test #42 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-623.html and word pear
+
+expected = 0.0441383640982474
+result = 0.0441383640982474
+
+
+Passed Test #43 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-623.html and word tomato
+
+expected = 0.0
+result = 0.0
+
+
+Passed Test #44 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-354.html and word lime
+
+expected = 0.025941906643647747
+result = 0.025941906643647747
+
+
+Passed Test #45 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-354.html and word blueberry
+
+expected = 0.021247750368025838
+result = 0.021247750368025838
+
+
+Passed Test #46 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-354.html and word apricot
+
+expected = 0.009065701041806217
+result = 0.009065701041806217
+
+
+Passed Test #47 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-354.html and word coconut
+
+expected = 0.013069893221184225
+result = 0.013069893221184225
+
+
+Passed Test #48 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-354.html and word kiwi
+
+expected = 0.014201166439589887
+result = 0.014201166439589887
+
+
+Passed Test #49 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-354.html and word banana
+
+expected = 0.022316761767958528
+result = 0.022316761767958528
+
+
+Passed Test #50 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-354.html and word peach
+
+expected = 0.022543698343080155
+result = 0.022543698343080155
+
+
+Passed Test #51 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-354.html and word cherry
+
+expected = 0.0143455764623361
+result = 0.0143455764623361
+
+
+Passed Test #52 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-354.html and word orange
+
+expected = 0.02648627411315382
+result = 0.02648627411315382
+
+
+Passed Test #53 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-354.html and word pear
+
+expected = 0.015652575187220175
+result = 0.015652575187220175
+
+
+Passed Test #54 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-354.html and word tomato
+
+expected = 0.0
+result = 0.0
+
+
+Passed Test #55 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-471.html and word lime
+
+expected = 0.03473392383419555
+result = 0.03473392383419555
+
+
+Passed Test #56 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-471.html and word blueberry
+
+expected = 0.005957694722149779
+result = 0.005957694722149779
+
+
+Passed Test #57 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-471.html and word apricot
+
+expected = 0.02764109902235121
+result = 0.02764109902235121
+
+
+Passed Test #58 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-471.html and word coconut
+
+expected = 0.01845543493577028
+result = 0.01845543493577028
+
+
+Passed Test #59 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-471.html and word kiwi
+
+expected = 0.016140722311454768
+result = 0.016140722311454768
+
+
+Passed Test #60 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-471.html and word banana
+
+expected = 0.021277236356953597
+result = 0.021277236356953597
+
+
+Passed Test #61 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-471.html and word peach
+
+expected = 0.01630485545404223
+result = 0.01630485545404223
+
+
+Passed Test #62 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-471.html and word cherry
+
+expected = 0.005563871863533611
+result = 0.005563871863533611
+
+
+Passed Test #63 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-471.html and word orange
+
+expected = 0.027910051025549203
+result = 0.027910051025549203
+
+
+Passed Test #64 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-471.html and word pear
+
+expected = 0.0060707858554633985
+result = 0.0060707858554633985
+
+
+Passed Test #65 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-471.html and word tomato
+
+expected = 0.0
+result = 0.0
+
+
+Passed Test #66 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-993.html and word lime
+
+expected = 0.04030673707380368
+result = 0.04030673707380368
+
+
+Passed Test #67 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-993.html and word blueberry
+
+expected = 0.0
+result = 0.0
+
+
+Passed Test #68 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-993.html and word apricot
+
+expected = 0.0
+result = 0.0
+
+
+Passed Test #69 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-993.html and word coconut
+
+expected = 0.0
+result = 0.0
+
+
+Passed Test #70 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-993.html and word kiwi
+
+expected = 0.030520636907304714
+result = 0.030520636907304714
+
+
+Passed Test #71 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-993.html and word banana
+
+expected = 0.0
+result = 0.0
+
+
+Passed Test #72 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-993.html and word peach
+
+expected = 0.015929730254595636
+result = 0.015929730254595636
+
+
+Passed Test #73 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-993.html and word cherry
+
+expected = 0.015929730254595636
+result = 0.015929730254595636
+
+
+Passed Test #74 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-993.html and word orange
+
+expected = 0.016734212037224756
+result = 0.016734212037224756
+
+
+Passed Test #75 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-993.html and word pear
+
+expected = 0.04891283591008144
+result = 0.04891283591008144
+
+
+Passed Test #76 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-993.html and word tomato
+
+expected = 0.0
+result = 0.0
+
+
+Passed Test #77 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-164.html and word lime
+
+expected = 0.0
+result = 0.0
+
+
+Passed Test #78 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-164.html and word blueberry
+
+expected = 0.023563761377350296
+result = 0.023563761377350296
+
+
+Passed Test #79 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-164.html and word apricot
+
+expected = 0.0
+result = 0.0
+
+
+Passed Test #80 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-164.html and word coconut
+
+expected = 0.0
+result = 0.0
+
+
+Passed Test #81 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-164.html and word kiwi
+
+expected = 0.04167237325929685
+result = 0.04167237325929685
+
+
+Passed Test #82 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-164.html and word banana
+
+expected = 0.021784595623572593
+result = 0.021784595623572593
+
+
+Passed Test #83 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-164.html and word peach
+
+expected = 0.0
+result = 0.0
+
+
+Passed Test #84 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-164.html and word cherry
+
+expected = 0.02200612066258256
+result = 0.02200612066258256
+
+
+Passed Test #85 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-164.html and word orange
+
+expected = 0.04422206997028653
+result = 0.04422206997028653
+
+
+Passed Test #86 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-164.html and word pear
+
+expected = 0.0
+result = 0.0
+
+
+Passed Test #87 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-164.html and word tomato
+
+expected = 0.0
+result = 0.0
+
+
+Passed Test #88 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-909.html and word lime
+
+expected = 0.0118388563306728
+result = 0.0118388563306728
+
+
+Passed Test #89 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-909.html and word blueberry
+
+expected = 0.028018519147331118
+result = 0.028018519147331118
+
+
+Passed Test #90 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-909.html and word apricot
+
+expected = 0.027222974345140327
+result = 0.027222974345140327
+
+
+Passed Test #91 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-909.html and word coconut
+
+expected = 0.020113259962264866
+result = 0.020113259962264866
+
+
+Passed Test #92 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-909.html and word kiwi
+
+expected = 0.0
+result = 0.0
+
+
+Passed Test #93 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-909.html and word banana
+
+expected = 0.008964492332996288
+result = 0.008964492332996288
+
+
+Passed Test #94 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-909.html and word peach
+
+expected = 0.0
+result = 0.0
+
+
+Passed Test #95 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-909.html and word cherry
+
+expected = 0.01776949703627324
+result = 0.01776949703627324
+
+
+Passed Test #96 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-909.html and word orange
+
+expected = 0.027487857933061795
+result = 0.027487857933061795
+
+
+Passed Test #97 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-909.html and word pear
+
+expected = 0.028550376892972316
+result = 0.028550376892972316
+
+
+Passed Test #98 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-909.html and word tomato
+
+expected = 0.0
+result = 0.0
+
+
+Passed Test #99 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-410.html and word lime
+
+expected = 0.021191305955752207
+result = 0.021191305955752207
+
+
+Passed Test #100 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-410.html and word blueberry
+
+expected = 0.029618734230703395
+result = 0.029618734230703395
+
+
+Passed Test #101 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-410.html and word apricot
+
+expected = 0.00857993228898702
+result = 0.00857993228898702
+
+
+Passed Test #102 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-410.html and word coconut
+
+expected = 0.022739848879792496
+result = 0.022739848879792496
+
+
+Passed Test #103 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-410.html and word kiwi
+
+expected = 0.01213906080628801
+result = 0.01213906080628801
+
+
+Passed Test #104 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-410.html and word banana
+
+expected = 0.023665801763748353
+result = 0.023665801763748353
+
+
+Passed Test #105 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-410.html and word peach
+
+expected = 0.027660840258734467
+result = 0.027660840258734467
+
+
+Passed Test #106 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-410.html and word cherry
+
+expected = 0.008246930571227181
+result = 0.008246930571227181
+
+
+Passed Test #107 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-410.html and word orange
+
+expected = 0.025113778257539746
+result = 0.025113778257539746
+
+
+Passed Test #108 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-410.html and word pear
+
+expected = 0.008998293039588118
+result = 0.008998293039588118
+
+
+Passed Test #109 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/fruits3/N-410.html and word tomato
+
+expected = 0.0
+result = 0.0
+
+
+Passed Test #110 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N.html and word lime
+
+expected = 0.0
+result = 0.0
+
+
+Passed Test #111 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N.html and word blueberry
+
+expected = 0.0
+result = 0.0
+
+
+Passed Test #112 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N.html and word apricot
+
+expected = 0.0
+result = 0.0
+
+
+Passed Test #113 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N.html and word coconut
+
+expected = 0.0
+result = 0.0
+
+
+Passed Test #114 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N.html and word kiwi
+
+expected = 0.0
+result = 0.0
+
+
+Passed Test #115 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N.html and word banana
+
+expected = 0.0
+result = 0.0
+
+
+Passed Test #116 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N.html and word peach
+
+expected = 0.0
+result = 0.0
+
+
+Passed Test #117 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N.html and word cherry
+
+expected = 0.0
+result = 0.0
+
+
+Passed Test #118 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N.html and word orange
+
+expected = 0.0
+result = 0.0
+
+
+Passed Test #119 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N.html and word pear
+
+expected = 0.0
+result = 0.0
+
+
+Passed Test #120 checking TF-IDF for URL http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N.html and word tomato
+
+expected = 0.0
+result = 0.0
+
+
